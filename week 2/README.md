@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the documentation for a full Vulnerability Assessment and Penetration Test (VAPT) conducted on a Metasploitable2 virtual machine as part of the CyArt training program. The assessment follows the standard VAPT lifecycle, including reconnaissance, scanning, exploitation, post-exploitation, and reporting.
+This repository contains the documentation for a full Vulnerability Assessment and Penetration Test (VAPT) conducted on a Metasploitable2 virtual machine as part of the CyArt weekly task. The assessment follows the standard VAPT lifecycle, including reconnaissance, scanning, exploitation, post-exploitation, and reporting.
 
 ## VAPT Workflow / Steps
 
