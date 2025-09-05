@@ -1,0 +1,673 @@
+Processed,ID,Req. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body,Highest Alert,Note,Tags
+Out of Scope,1,Mon Sep 01 11:38:46 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=query-stripping&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,2,Mon Sep 01 11:38:46 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=fingerprinting-protection-overrides&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,3,Mon Sep 01 11:38:50 EDT 2025,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=128.7&pver=2.2,403,Forbidden,0,130,40,,false,
+Processed,4,Mon Sep 01 11:38:54 EDT 2025,GET,http://localhost:3000/,200,OK,48,469,80117,Medium,false,"Script, Comment"
+Out of Scope,6,Mon Sep 01 11:38:55 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=partitioning-exempt-urls&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,7,Mon Sep 01 11:38:55 EDT 2025,GET,http://localhost:3000/main.js,200,OK,30,483,457995,Medium,false,Upload
+Processed,8,Mon Sep 01 11:38:55 EDT 2025,GET,http://localhost:3000/polyfills.js,200,OK,29,481,34840,Medium,false,
+Processed,9,Mon Sep 01 11:38:55 EDT 2025,GET,http://localhost:3000/runtime.js,200,OK,35,479,3315,Medium,false,
+Processed,10,Mon Sep 01 11:38:55 EDT 2025,GET,http://localhost:3000/vendor.js,200,OK,166,485,1622583,Medium,false,Comment
+Processed,11,Mon Sep 01 11:38:55 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js,200,OK,191,922,20808,Medium,false,Comment
+Processed,17,Mon Sep 01 11:38:55 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js,200,OK,227,913,85578,Medium,false,"Script, Comment"
+Processed,20,Mon Sep 01 11:38:55 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css,200,OK,426,887,4064,Medium,false,
+Processed,21,Mon Sep 01 11:38:56 EDT 2025,GET,http://localhost:3000/styles.css,200,OK,56,469,685248,Medium,false,Comment
+Processed,22,Mon Sep 01 11:38:56 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,200,OK,19,475,32473,Medium,false,JSON
+Processed,25,Mon Sep 01 11:38:56 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xd7U,200,OK,19,230,96,Low,false,
+Processed,27,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,107,384,20,Medium,false,JSON
+Processed,30,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,196,389,21730,Medium,false,JSON
+Processed,31,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,224,389,21730,Medium,false,JSON
+Processed,32,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,233,384,20,Medium,false,JSON
+Processed,33,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,285,389,21730,Medium,false,JSON
+Processed,34,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,200,OK,536,431,75029,Medium,false,Comment
+Processed,37,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/MaterialIcons-Regular.woff2,200,OK,293,431,60840,Medium,false,Comment
+Processed,38,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,189,389,21730,Medium,false,JSON
+Processed,39,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/languages,200,OK,673,388,4719,Medium,false,JSON
+Processed,40,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,200,OK,390,389,13644,Medium,false,JSON
+Processed,42,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,863,386,696,Medium,false,JSON
+Processed,45,Mon Sep 01 11:38:57 EDT 2025,GET,http://localhost:3000/api/Quantitys/,200,OK,489,388,6258,Medium,false,JSON
+Processed,47,Mon Sep 01 11:38:58 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,20,306,0,Medium,false,
+Processed,48,Mon Sep 01 11:38:58 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,202,386,696,Medium,false,JSON
+Processed,49,Mon Sep 01 11:38:58 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xdRN&sid=wYoh5g2zAORNUhR_AAAA,200,OK,52,213,2,Medium,false,
+Processed,50,Mon Sep 01 11:38:58 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xdRP&sid=wYoh5g2zAORNUhR_AAAA,200,OK,52,230,53,Medium,false,
+Processed,51,Mon Sep 01 11:38:58 EDT 2025,GET,http://localhost:3000/assets/public/favicon_js.ico,200,OK,45,456,15086,Medium,false,
+Processed,52,Mon Sep 01 11:38:58 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=wYoh5g2zAORNUhR_AAAA,101,Switching Protocols,7,129,0,Medium,false,
+Processed,53,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,200,OK,24,431,15291,Medium,false,
+Processed,55,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,200,OK,29,431,29163,Medium,false,Comment
+Processed,56,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,200,OK,29,431,35878,Medium,false,Comment
+Processed,57,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,200,OK,33,431,19833,Medium,false,Comment
+Processed,58,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,200,OK,24,431,15072,Medium,false,Comment
+Processed,59,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,200,OK,15,431,19001,Medium,false,Comment
+Processed,60,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,200,OK,23,431,17080,Medium,false,
+Processed,61,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,200,OK,16,431,15910,Medium,false,Comment
+Processed,62,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,200,OK,15,431,26934,Medium,false,
+Processed,63,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,200,OK,25,432,93641,Medium,false,
+Processed,64,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,200,OK,254,431,17038,Medium,false,
+Processed,65,Mon Sep 01 11:38:59 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,200,OK,274,431,21524,Medium,false,
+Processed,66,Mon Sep 01 11:39:00 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xdsd&sid=wYoh5g2zAORNUhR_AAAA,200,OK,324,229,1,Medium,false,
+Processed,67,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/,304,Not Modified,26,393,0,Medium,false,
+Processed,68,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,26,391,0,Medium,false,
+Processed,69,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,27,394,0,Medium,false,
+Processed,70,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,136,392,0,Medium,false,
+Processed,71,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,144,393,0,Medium,false,
+Processed,72,Mon Sep 01 11:39:03 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,86,393,0,Medium,false,
+Processed,73,Mon Sep 01 11:39:04 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,6,392,0,Medium,false,
+Processed,74,Mon Sep 01 11:39:04 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xf4H,200,OK,3,230,96,Low,false,
+Processed,75,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,18,306,0,Medium,false,
+Processed,76,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,45,304,0,Medium,false,
+Processed,77,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,36,306,0,Medium,false,
+Processed,78,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,63,389,21730,Medium,false,JSON
+Processed,79,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,88,384,20,Medium,false,JSON
+Processed,80,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,103,389,21730,Medium,false,JSON
+Processed,81,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,63,393,0,Medium,false,
+Processed,82,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,236,306,0,Medium,false,
+Processed,83,Mon Sep 01 11:39:05 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xfKF&sid=tgDoAw8g-6Yfl5ZHAAAC,200,OK,8,213,2,Medium,false,
+Processed,84,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xfKT&sid=tgDoAw8g-6Yfl5ZHAAAC,200,OK,5,230,32,Medium,false,
+Processed,85,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=tgDoAw8g-6Yfl5ZHAAAC,101,Switching Protocols,22,129,0,Medium,false,
+Processed,86,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,549,306,0,Medium,false,
+Processed,87,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,768,306,0,Medium,false,
+Processed,88,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1067,386,696,Medium,false,JSON
+Processed,89,Mon Sep 01 11:39:05 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,1140,305,0,Medium,false,
+Processed,90,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,109,306,0,Medium,false,
+Processed,91,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,92,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,9,392,0,Medium,false,
+Processed,93,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,94,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,95,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,9,392,0,Medium,false,
+Processed,96,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,97,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,50,392,0,Medium,false,
+Processed,98,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,15,392,0,Medium,false,
+Processed,99,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,4,393,0,Medium,false,
+Processed,100,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,8,392,0,Medium,false,
+Processed,101,Mon Sep 01 11:39:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,102,Mon Sep 01 11:39:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,6,392,0,Medium,false,
+Processed,103,Mon Sep 01 11:39:06 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xfUa&sid=tgDoAw8g-6Yfl5ZHAAAC,200,OK,906,229,1,Medium,false,
+Out of Scope,104,Mon Sep 01 11:39:08 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=query-stripping&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,105,Mon Sep 01 11:39:08 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=fingerprinting-protection-overrides&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,106,Mon Sep 01 11:39:09 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Out of Scope,107,Mon Sep 01 11:39:10 EDT 2025,GET,https://www.youtube.com/favicon.ico,403,Forbidden,0,130,40,,false,
+Out of Scope,108,Mon Sep 01 11:39:12 EDT 2025,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=128.7&pver=2.2,403,Forbidden,0,130,40,,false,
+Out of Scope,109,Mon Sep 01 11:39:12 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,110,Mon Sep 01 11:39:13 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Processed,111,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/,304,Not Modified,25,393,0,Medium,false,
+Processed,112,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,18,392,0,Medium,false,
+Processed,113,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,24,391,0,Medium,false,
+Processed,114,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,6,394,0,Medium,false,
+Processed,115,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,25,393,0,Medium,false,
+Processed,116,Mon Sep 01 11:39:15 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,12,393,0,Medium,false,
+Processed,117,Mon Sep 01 11:39:16 EDT 2025,GET,http://localhost:3000/,200,OK,10,469,80117,Medium,false,"Script, Comment"
+Out of Scope,118,Mon Sep 01 11:39:17 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=partitioning-exempt-urls&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,119,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/runtime.js,200,OK,7,479,3315,Medium,false,
+Processed,120,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/polyfills.js,200,OK,8,481,34840,Medium,false,
+Processed,121,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/main.js,200,OK,14,483,457995,Medium,false,Upload
+Processed,122,Mon Sep 01 11:39:17 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css,200,OK,81,889,4064,Medium,false,
+Processed,123,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/vendor.js,200,OK,60,485,1622583,Medium,false,Comment
+Processed,124,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,4,392,0,Medium,false,
+Processed,125,Mon Sep 01 11:39:17 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js,200,OK,119,910,20808,Medium,false,Comment
+Processed,126,Mon Sep 01 11:39:17 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js,200,OK,138,915,85578,Medium,false,"Script, Comment"
+Processed,127,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xi5c,200,OK,15,230,96,Low,false,
+Processed,128,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,49,304,0,Medium,false,
+Processed,129,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/styles.css,200,OK,64,469,685248,Medium,false,Comment
+Processed,130,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,44,306,0,Medium,false,
+Processed,131,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,85,389,21730,Medium,false,JSON
+Processed,132,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,111,389,21730,Medium,false,JSON
+Processed,133,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,166,306,0,Medium,false,
+Processed,134,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,149,384,20,Medium,false,JSON
+Processed,135,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,110,389,21730,Medium,false,JSON
+Processed,136,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,58,393,0,Medium,false,
+Processed,137,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,253,386,696,Medium,false,JSON
+Processed,138,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,328,305,0,Medium,false,
+Processed,139,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,58,306,0,Medium,false,
+Processed,140,Mon Sep 01 11:39:17 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,98,306,0,Medium,false,
+Processed,141,Mon Sep 01 11:39:18 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xiJO&sid=_782rm_OgaCrYr7MAAAE,200,OK,18,213,2,Medium,false,
+Processed,142,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xiJP&sid=_782rm_OgaCrYr7MAAAE,200,OK,9,230,32,Medium,false,
+Processed,143,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=_782rm_OgaCrYr7MAAAE,101,Switching Protocols,9,129,0,Medium,false,
+Processed,144,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/favicon_js.ico,200,OK,6,456,15086,Medium,false,
+Processed,145,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,200,OK,7,475,32473,Medium,false,JSON
+Processed,146,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xiPn,200,OK,12,230,96,Low,false,
+Processed,147,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,15,306,0,,false,
+Processed,148,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,13,392,0,Medium,false,
+Processed,149,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,7,393,0,Medium,false,
+Processed,150,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,14,392,0,Medium,false,
+Processed,151,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,19,392,0,Medium,false,
+Processed,152,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,18,392,0,Medium,false,
+Processed,153,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,25,392,0,Medium,false,
+Processed,154,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,15,392,0,Medium,false,
+Processed,155,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,9,392,0,Medium,false,
+Processed,156,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,157,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,158,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,45,392,0,Medium,false,
+Processed,159,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,8,392,0,Medium,false,
+Processed,160,Mon Sep 01 11:39:18 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,23,384,20,Medium,false,JSON
+Processed,161,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,29,389,21730,Medium,false,JSON
+Processed,162,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,8,389,21730,Medium,false,JSON
+Processed,163,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,38,384,20,Medium,false,JSON
+Processed,164,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,81,389,21730,Medium,false,JSON
+Processed,165,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,79,389,21730,Medium,false,JSON
+Processed,166,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,200,OK,133,431,75029,Medium,false,Comment
+Processed,167,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/languages,200,OK,193,388,4719,Medium,false,JSON
+Processed,168,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xiVY&sid=_782rm_OgaCrYr7MAAAE,200,OK,152,229,1,Medium,false,
+Processed,169,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,304,386,696,Medium,false,JSON
+Processed,170,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,376,386,696,Medium,false,JSON
+Processed,171,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,200,OK,184,389,13644,Medium,false,JSON
+Processed,172,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/api/Quantitys/,200,OK,200,388,6258,Medium,false,JSON
+Processed,173,Mon Sep 01 11:39:19 EDT 2025,GET,http://localhost:3000/MaterialIcons-Regular.woff2,200,OK,105,431,60840,Medium,false,Comment
+Processed,174,Mon Sep 01 11:39:20 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xinb&sid=LRVPbIDM_8xpnpB3AAAG,200,OK,3,230,32,Medium,false,
+Processed,175,Mon Sep 01 11:39:20 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=LRVPbIDM_8xpnpB3AAAG,101,Switching Protocols,9,129,0,Medium,false,
+Processed,176,Mon Sep 01 11:39:20 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xinZ&sid=LRVPbIDM_8xpnpB3AAAG,200,OK,3,213,2,Medium,false,
+Processed,177,Mon Sep 01 11:39:20 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,6,306,0,Medium,false,
+Processed,178,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,200,OK,10,431,15291,Medium,false,
+Processed,179,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,200,OK,13,431,29163,Medium,false,Comment
+Processed,180,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,200,OK,71,431,19833,Medium,false,Comment
+Processed,181,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,200,OK,11,431,35878,Medium,false,Comment
+Processed,182,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,200,OK,8,431,17080,Medium,false,
+Processed,183,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,200,OK,11,431,15910,Medium,false,Comment
+Processed,184,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,200,OK,134,431,19001,Medium,false,Comment
+Processed,185,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,200,OK,17,431,15072,Medium,false,Comment
+Processed,186,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,200,OK,26,431,21524,Medium,false,
+Processed,187,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,200,OK,24,432,93641,Medium,false,
+Processed,188,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,200,OK,25,431,26934,Medium,false,
+Processed,189,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,200,OK,34,431,17038,Medium,false,
+Out of Scope,190,Mon Sep 01 11:39:21 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=query-stripping&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,191,Mon Sep 01 11:39:21 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xj8D&sid=LRVPbIDM_8xpnpB3AAAG,200,OK,471,229,1,Medium,false,
+Out of Scope,192,Mon Sep 01 11:39:22 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=fingerprinting-protection-overrides&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,193,Mon Sep 01 11:39:24 EDT 2025,GET,http://localhost:3000/,304,Not Modified,20,393,0,Medium,false,
+Processed,194,Mon Sep 01 11:39:25 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,38,392,0,Medium,false,
+Processed,195,Mon Sep 01 11:39:25 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,34,394,0,Medium,false,
+Processed,196,Mon Sep 01 11:39:25 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,37,391,0,Medium,false,
+Processed,197,Mon Sep 01 11:39:25 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,51,393,0,Medium,false,
+Out of Scope,198,Mon Sep 01 11:39:25 EDT 2025,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=128.7&pver=2.2,403,Forbidden,0,130,40,,false,
+Processed,199,Mon Sep 01 11:39:25 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,9,393,0,Medium,false,
+Processed,200,Mon Sep 01 11:39:26 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,14,392,0,Medium,false,
+Processed,201,Mon Sep 01 11:39:26 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xkQJ,200,OK,7,230,96,Low,false,
+Processed,202,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,18,304,0,Medium,false,
+Processed,203,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,23,306,0,Medium,false,
+Processed,204,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,52,389,21730,Medium,false,JSON
+Processed,205,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,58,389,21730,Medium,false,JSON
+Processed,206,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,30,389,21730,Medium,false,JSON
+Processed,207,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,95,384,20,Medium,false,JSON
+Processed,208,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,135,393,0,Medium,false,
+Processed,209,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,279,306,0,Medium,false,
+Processed,210,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,309,306,0,Medium,false,
+Processed,211,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,669,305,0,Medium,false,
+Processed,212,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,343,306,0,Medium,false,
+Processed,213,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,667,386,696,Medium,false,JSON
+Processed,214,Mon Sep 01 11:39:27 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xkf2&sid=erNOC29etO4ItJpYAAAI,200,OK,4,213,2,Medium,false,
+Processed,215,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xkfY&sid=erNOC29etO4ItJpYAAAI,200,OK,6,230,32,Medium,false,
+Processed,216,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=erNOC29etO4ItJpYAAAI,101,Switching Protocols,1,129,0,Medium,false,
+Processed,217,Mon Sep 01 11:39:27 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,27,306,0,Medium,false,
+Processed,218,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,16,392,0,Medium,false,
+Processed,219,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,220,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,19,392,0,Medium,false,
+Processed,221,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,17,392,0,Medium,false,
+Processed,222,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,23,392,0,Medium,false,
+Processed,223,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,9,392,0,Medium,false,
+Processed,224,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,10,392,0,Medium,false,
+Processed,225,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,8,392,0,Medium,false,
+Processed,226,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,6,393,0,Medium,false,
+Processed,227,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,18,392,0,Medium,false,
+Processed,228,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,12,392,0,Medium,false,
+Processed,229,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,33,392,0,Medium,false,
+Processed,230,Mon Sep 01 11:39:28 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xksy&sid=erNOC29etO4ItJpYAAAI,200,OK,271,229,1,Medium,false,
+Processed,231,Mon Sep 01 11:39:29 EDT 2025,GET,http://localhost:3000/,200,OK,19,469,80117,Medium,false,"Script, Comment"
+Out of Scope,232,Mon Sep 01 11:39:30 EDT 2025,GET,https://owasp.org/,403,Forbidden,0,130,40,,false,
+Out of Scope,233,Mon Sep 01 11:39:30 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=partitioning-exempt-urls&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,234,Mon Sep 01 11:39:30 EDT 2025,GET,http://localhost:3000/runtime.js,200,OK,19,479,3315,Medium,false,
+Processed,235,Mon Sep 01 11:39:30 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css,200,OK,177,889,4064,Medium,false,
+Processed,236,Mon Sep 01 11:39:30 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js,200,OK,199,915,85578,Medium,false,"Script, Comment"
+Processed,237,Mon Sep 01 11:39:30 EDT 2025,GET,http://localhost:3000/vendor.js,200,OK,91,485,1622583,Medium,false,Comment
+Processed,238,Mon Sep 01 11:39:30 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js,200,OK,179,916,20808,Medium,false,Comment
+Processed,239,Mon Sep 01 11:39:30 EDT 2025,GET,http://localhost:3000/polyfills.js,200,OK,100,481,34840,Medium,false,
+Processed,240,Mon Sep 01 11:39:30 EDT 2025,GET,http://localhost:3000/main.js,200,OK,44,483,457995,Medium,false,Upload
+Out of Scope,241,Mon Sep 01 11:39:31 EDT 2025,GET,https://owasp.org/favicon.ico,403,Forbidden,0,130,40,,false,
+Processed,242,Mon Sep 01 11:39:31 EDT 2025,GET,http://localhost:3000/styles.css,200,OK,31,469,685248,Medium,false,Comment
+Out of Scope,243,Mon Sep 01 11:39:31 EDT 2025,GET,https://owasp-juice.shop/,403,Forbidden,0,130,40,,false,
+Processed,244,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xliK,200,OK,3,230,96,Low,false,
+Out of Scope,245,Mon Sep 01 11:39:32 EDT 2025,GET,https://owasp-juice.shop/favicon.ico,403,Forbidden,0,130,40,,false,
+Processed,246,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,200,OK,9,475,32473,Medium,false,JSON
+Processed,247,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,94,384,20,Medium,false,JSON
+Processed,248,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,88,389,21730,Medium,false,JSON
+Processed,249,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,112,384,20,Medium,false,JSON
+Processed,250,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,123,389,21730,Medium,false,JSON
+Processed,251,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,149,389,21730,Medium,false,JSON
+Processed,252,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,162,389,21730,Medium,false,JSON
+Processed,253,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,200,OK,213,431,75029,Medium,false,Comment
+Processed,254,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/languages,200,OK,277,388,4719,Medium,false,JSON
+Processed,255,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/MaterialIcons-Regular.woff2,200,OK,16,431,60840,Medium,false,Comment
+Processed,256,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,200,OK,766,389,13644,Medium,false,JSON
+Processed,257,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1037,386,696,Medium,false,JSON
+Processed,258,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xm2g&sid=CpA482J2sjRKHNLFAAAK,200,OK,29,230,32,Medium,false,
+Processed,259,Mon Sep 01 11:39:33 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xm2f&sid=CpA482J2sjRKHNLFAAAK,200,OK,26,213,2,Medium,false,
+Processed,260,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=CpA482J2sjRKHNLFAAAK,101,Switching Protocols,5,129,0,Medium,false,
+Processed,261,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/assets/public/favicon_js.ico,200,OK,52,456,15086,Medium,false,
+Processed,262,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1073,386,696,Medium,false,JSON
+Processed,263,Mon Sep 01 11:39:32 EDT 2025,GET,http://localhost:3000/api/Quantitys/,200,OK,883,388,6258,Medium,false,JSON
+Processed,264,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,16,306,0,Medium,false,
+Processed,265,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,200,OK,30,431,15291,Medium,false,
+Processed,266,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,200,OK,11,431,29163,Medium,false,Comment
+Processed,267,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,200,OK,26,431,19833,Medium,false,Comment
+Processed,268,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,200,OK,24,431,17080,Medium,false,
+Processed,269,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,200,OK,28,431,21524,Medium,false,
+Processed,270,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,200,OK,31,431,19001,Medium,false,Comment
+Processed,271,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,200,OK,35,432,93641,Medium,false,
+Processed,272,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,200,OK,15,431,26934,Medium,false,
+Processed,273,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,200,OK,25,431,15910,Medium,false,Comment
+Processed,274,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,200,OK,34,431,17038,Medium,false,
+Processed,275,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,200,OK,39,431,35878,Medium,false,Comment
+Processed,276,Mon Sep 01 11:39:34 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,200,OK,8,431,15072,Medium,false,Comment
+Processed,277,Mon Sep 01 11:39:33 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xm8A&sid=CpA482J2sjRKHNLFAAAK,200,OK,787,229,1,Medium,false,
+Out of Scope,278,Mon Sep 01 11:39:34 EDT 2025,GET,https://owasp.org/,403,Forbidden,0,130,40,,false,
+Out of Scope,279,Mon Sep 01 11:39:35 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=fingerprinting-protection-overrides&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,280,Mon Sep 01 11:39:35 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=query-stripping&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,281,Mon Sep 01 11:39:35 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?_expected=0,403,Forbidden,0,130,40,,false,
+Out of Scope,282,Mon Sep 01 11:39:36 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Out of Scope,283,Mon Sep 01 11:39:36 EDT 2025,GET,https://www.youtube.com/favicon.ico,403,Forbidden,0,130,40,,false,
+Processed,284,Mon Sep 01 11:39:36 EDT 2025,GET,http://localhost:3000/,304,Not Modified,20,393,0,Medium,false,
+Processed,285,Mon Sep 01 11:39:37 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,83,392,0,Medium,false,
+Processed,286,Mon Sep 01 11:39:37 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,11,391,0,Medium,false,
+Processed,287,Mon Sep 01 11:39:37 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,3,394,0,Medium,false,
+Processed,288,Mon Sep 01 11:39:37 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,13,393,0,Medium,false,
+Processed,289,Mon Sep 01 11:39:37 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,9,393,0,Medium,false,
+Processed,290,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,4,392,0,Medium,false,
+Processed,291,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xnEd,200,OK,2,230,96,Low,false,
+Processed,292,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,28,384,20,Medium,false,JSON
+Processed,293,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,59,306,0,Medium,false,
+Processed,294,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,80,304,0,Medium,false,
+Processed,295,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,99,389,21730,Medium,false,JSON
+Processed,296,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,142,393,0,Medium,false,
+Processed,297,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,186,306,0,Medium,false,
+Processed,298,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,208,389,21730,Medium,false,JSON
+Processed,299,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,191,389,21730,Medium,false,JSON
+Processed,300,Mon Sep 01 11:39:39 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xnTG&sid=b6IByUhDhE6x5VUdAAAM,200,OK,27,213,2,Medium,false,
+Processed,301,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xnTJ&sid=b6IByUhDhE6x5VUdAAAM,200,OK,92,230,32,Medium,false,
+Processed,302,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=b6IByUhDhE6x5VUdAAAM,101,Switching Protocols,7,129,0,Medium,false,
+Processed,303,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,1025,305,0,Medium,false,
+Processed,304,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,498,306,0,Medium,false,
+Processed,305,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,615,306,0,Medium,false,
+Processed,306,Mon Sep 01 11:39:38 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1073,386,696,Medium,false,JSON
+Processed,307,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,103,306,0,Medium,false,
+Processed,308,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,309,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,14,392,0,Medium,false,
+Processed,310,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,311,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,6,392,0,Medium,false,
+Out of Scope,312,Mon Sep 01 11:39:40 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Processed,313,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,44,392,0,Medium,false,
+Processed,314,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,4,393,0,Medium,false,
+Processed,315,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,316,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,3,392,0,Medium,false,
+Processed,317,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,318,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,28,392,0,Medium,false,
+Processed,319,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,4,392,0,Medium,false,
+Out of Scope,320,Mon Sep 01 11:39:40 EDT 2025,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=128.7&pver=2.2,403,Forbidden,0,130,40,,false,
+Processed,321,Mon Sep 01 11:39:40 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,17,392,0,Medium,false,
+Processed,322,Mon Sep 01 11:39:39 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xneW&sid=b6IByUhDhE6x5VUdAAAM,200,OK,791,229,1,Medium,false,
+Processed,323,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/,304,Not Modified,17,393,0,Medium,false,
+Processed,324,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,21,394,0,Medium,false,
+Processed,325,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,31,391,0,Medium,false,
+Processed,326,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,57,393,0,Medium,false,
+Processed,327,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,43,392,0,Medium,false,
+Processed,328,Mon Sep 01 11:39:42 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,4,393,0,Medium,false,
+Processed,329,Mon Sep 01 11:39:43 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,6,392,0,Medium,false,
+Processed,330,Mon Sep 01 11:39:43 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xoXw,200,OK,8,230,96,Low,false,
+Processed,331,Mon Sep 01 11:39:43 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,23,304,0,Medium,false,
+Processed,332,Mon Sep 01 11:39:43 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,15,306,0,Medium,false,
+Processed,333,Mon Sep 01 11:39:43 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,125,305,0,Medium,false,
+Processed,334,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,144,306,0,Medium,false,
+Processed,335,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,151,389,21730,Medium,false,JSON
+Processed,336,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,21,393,0,Medium,false,
+Processed,337,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,17,304,0,Medium,false,
+Processed,338,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/tutorial.js,200,OK,195,481,36237,Medium,false,Script
+Processed,339,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,70,389,21730,Medium,false,JSON
+Processed,340,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,86,306,0,Medium,false,
+Processed,341,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/assets/public/images/hackingInstructor.png,200,OK,20,427,824,Medium,false,
+Processed,342,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,554,386,696,Medium,false,JSON
+Processed,343,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,36,306,0,Medium,false,
+Processed,344,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,95,306,0,Medium,false,
+Processed,345,Mon Sep 01 11:39:44 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xolh&sid=6rHjj8h1Tts6-cajAAAO,200,OK,25,213,2,Medium,false,
+Processed,346,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=6rHjj8h1Tts6-cajAAAO,101,Switching Protocols,20,129,0,Medium,false,
+Processed,347,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xolo&sid=6rHjj8h1Tts6-cajAAAO,200,OK,5,230,32,Medium,false,
+Processed,348,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,238,306,0,Medium,false,
+Processed,349,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,10,306,0,Medium,false,
+Processed,350,Mon Sep 01 11:39:44 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,351,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,352,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,24,392,0,Medium,false,
+Processed,353,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,3,392,0,Medium,false,
+Processed,354,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,11,392,0,Medium,false,
+Processed,355,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,50,392,0,Medium,false,
+Processed,356,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,26,392,0,Medium,false,
+Processed,357,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,22,392,0,Medium,false,
+Processed,358,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,41,392,0,Medium,false,
+Processed,359,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,20,392,0,Medium,false,
+Processed,360,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,27,393,0,Medium,false,
+Processed,361,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,362,Mon Sep 01 11:39:45 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xowq&sid=6rHjj8h1Tts6-cajAAAO,200,OK,151,229,1,Medium,false,
+Processed,363,Mon Sep 01 11:39:46 EDT 2025,GET,http://localhost:3000/,200,OK,68,469,80117,Medium,false,"Script, Comment"
+Out of Scope,364,Mon Sep 01 11:39:46 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?collection=partitioning-exempt-urls&bucket=main&_expected=0,403,Forbidden,0,130,40,,false,
+Processed,365,Mon Sep 01 11:39:46 EDT 2025,GET,http://localhost:3000/polyfills.js,200,OK,19,481,34840,Medium,false,
+Processed,366,Mon Sep 01 11:39:46 EDT 2025,GET,http://localhost:3000/main.js,200,OK,35,483,457995,Medium,false,Upload
+Processed,367,Mon Sep 01 11:39:46 EDT 2025,GET,http://localhost:3000/runtime.js,200,OK,34,479,3315,Medium,false,
+Processed,368,Mon Sep 01 11:39:46 EDT 2025,GET,http://localhost:3000/vendor.js,200,OK,98,485,1622583,Medium,false,Comment
+Processed,369,Mon Sep 01 11:39:46 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js,200,OK,119,910,20808,Medium,false,Comment
+Processed,370,Mon Sep 01 11:39:46 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css,200,OK,188,899,4064,Medium,false,
+Processed,371,Mon Sep 01 11:39:46 EDT 2025,GET,http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js,200,OK,177,925,85578,Medium,false,"Script, Comment"
+Processed,372,Mon Sep 01 11:39:47 EDT 2025,GET,http://localhost:3000/styles.css,200,OK,32,469,685248,Medium,false,Comment
+Out of Scope,373,Mon Sep 01 11:39:47 EDT 2025,GET,https://owasp-juice.shop/,403,Forbidden,0,130,40,,false,
+Processed,374,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,200,OK,11,475,32473,Medium,false,JSON
+Processed,375,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xpjY,200,OK,3,230,96,Low,false,
+Out of Scope,376,Mon Sep 01 11:39:48 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Processed,377,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,10,384,20,Medium,false,JSON
+Processed,378,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,17,389,21730,Medium,false,JSON
+Processed,379,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,29,304,0,Medium,false,
+Processed,380,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,58,389,21730,Medium,false,JSON
+Processed,381,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,40,389,21730,Medium,false,JSON
+Processed,382,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,43,389,21730,Medium,false,JSON
+Processed,383,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,200,OK,34,431,75029,Medium,false,Comment
+Processed,384,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/rest/languages,200,OK,136,388,4719,Medium,false,JSON
+Out of Scope,385,Mon Sep 01 11:39:48 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?_expected=0,403,Forbidden,0,130,40,,false,
+Processed,386,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,231,386,696,Medium,false,JSON
+Processed,387,Mon Sep 01 11:39:48 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,370,386,696,Medium,false,JSON
+Processed,388,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,200,OK,140,389,13644,Medium,false,JSON
+Processed,389,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/api/Quantitys/,200,OK,168,388,6258,Medium,false,JSON
+Out of Scope,390,Mon Sep 01 11:39:49 EDT 2025,GET,https://www.youtube.com/favicon.ico,403,Forbidden,0,130,40,,false,
+Processed,391,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/assets/public/favicon_js.ico,200,OK,39,456,15086,Medium,false,
+Processed,392,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/MaterialIcons-Regular.woff2,200,OK,48,431,60840,Medium,false,Comment
+Processed,393,Mon Sep 01 11:39:49 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xq2N&sid=bsh6D-paUFalIZcMAAAQ,200,OK,6,213,2,Medium,false,
+Processed,394,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_girlie.jpg,200,OK,36,431,18538,Medium,false,
+Processed,395,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xq2l&sid=bsh6D-paUFalIZcMAAAQ,200,OK,10,230,32,Medium,false,
+Processed,396,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/assets/public/images/products/card_alpha.jpg,200,OK,12,433,254885,Medium,false,Comment
+Processed,397,Mon Sep 01 11:39:49 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=bsh6D-paUFalIZcMAAAQ,101,Switching Protocols,12,129,0,Medium,false,
+Processed,398,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/coaster.jpg,200,OK,15,431,11127,Medium,false,Comment
+Processed,399,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_hoodie.jpg,200,OK,7,431,35189,Medium,false,
+Processed,400,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/iron-on.jpg,200,OK,15,431,29988,Medium,false,
+Processed,401,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/holo_sticker.png,200,OK,64,431,72487,Medium,false,
+Processed,402,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lego_case.jpg,200,OK,26,433,253543,Medium,false,
+Processed,403,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/3d_keychain.jpg,200,OK,37,431,34413,Medium,false,Comment
+Processed,404,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,5,306,0,Medium,false,
+Processed,405,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/sticker_page.jpg,200,OK,17,431,28534,Medium,false,
+Processed,406,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_mug.jpg,200,OK,34,431,29912,Medium,false,
+Processed,407,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/magnets.jpg,200,OK,15,431,28946,Medium,false,
+Processed,408,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/sticker_single.jpg,200,OK,12,431,42750,Medium,false,
+Processed,409,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,200,OK,13,431,15291,Medium,false,
+Processed,410,Mon Sep 01 11:39:50 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,200,OK,6,431,29163,Medium,false,Comment
+Processed,411,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,200,OK,6,431,19833,Medium,false,Comment
+Processed,412,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,200,OK,23,431,35878,Medium,false,Comment
+Processed,413,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,200,OK,30,431,19001,Medium,false,Comment
+Processed,414,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,200,OK,30,431,15072,Medium,false,Comment
+Processed,415,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,200,OK,10,432,93641,Medium,false,
+Processed,416,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,200,OK,11,431,17038,Medium,false,
+Processed,417,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,200,OK,18,431,15910,Medium,false,Comment
+Processed,418,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,200,OK,26,431,17080,Medium,false,
+Processed,419,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,200,OK,29,431,26934,Medium,false,
+Processed,420,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,200,OK,34,431,21524,Medium,false,
+Processed,421,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xqPp&sid=bsh6D-paUFalIZcMAAAQ,200,OK,189,229,1,Medium,false,
+Processed,422,Mon Sep 01 11:39:51 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xqVX&sid=bsh6D-paUFalIZcMAAAQ,200,OK,19,229,1,Medium,false,
+Out of Scope,423,Mon Sep 01 11:39:52 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Processed,424,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/,304,Not Modified,6,393,0,Medium,false,
+Processed,425,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,5,392,0,Medium,false,
+Processed,426,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,160,394,0,Medium,false,
+Processed,427,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,178,393,0,Medium,false,
+Processed,428,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,4,393,0,Medium,false,
+Processed,429,Mon Sep 01 11:39:53 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,43,391,0,Medium,false,
+Processed,430,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xrJD,200,OK,48,230,96,Low,false,
+Processed,431,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,56,392,0,Medium,false,
+Processed,432,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,5,304,0,Medium,false,
+Processed,433,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,21,306,0,Medium,false,
+Processed,434,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,84,306,0,Medium,false,
+Processed,435,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,20,304,0,Medium,false,
+Processed,436,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,35,306,0,Medium,false,
+Processed,437,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,57,389,21730,Medium,false,JSON
+Processed,438,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,62,389,21730,Medium,false,JSON
+Processed,439,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/,304,Not Modified,132,393,0,Medium,false,
+Processed,440,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,10,393,0,Medium,false,
+Processed,441,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,16,391,0,Medium,false,
+Processed,442,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,5,392,0,Medium,false,
+Processed,443,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,13,393,0,Medium,false,
+Processed,444,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,13,394,0,Medium,false,
+Processed,445,Mon Sep 01 11:39:56 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,17,393,0,Medium,false,
+Processed,446,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,1037,305,0,Medium,false,
+Processed,447,Mon Sep 01 11:39:56 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xrdI&sid=TfGN7yGAKXlm1wISAAAS,200,OK,7,213,2,Medium,false,
+Processed,448,Mon Sep 01 11:39:56 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xrdh&sid=TfGN7yGAKXlm1wISAAAS,200,OK,2,230,32,Medium,false,
+Processed,449,Mon Sep 01 11:39:56 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=TfGN7yGAKXlm1wISAAAS,101,Switching Protocols,13,129,0,Medium,false,
+Processed,450,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,506,306,0,Medium,false,
+Processed,451,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,611,306,0,Medium,false,
+Processed,452,Mon Sep 01 11:39:55 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1150,386,696,Medium,false,JSON
+Processed,453,Mon Sep 01 11:39:56 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,11,306,0,Medium,false,
+Processed,454,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,9,392,0,Medium,false,
+Processed,455,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,4,392,0,Medium,false,
+Processed,456,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,10,392,0,Medium,false,
+Processed,457,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xrqo,200,OK,24,230,96,Low,false,
+Processed,458,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,51,392,0,Medium,false,
+Processed,459,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,78,392,0,Medium,false,
+Processed,460,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,45,392,0,Medium,false,
+Processed,461,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,42,392,0,Medium,false,
+Processed,462,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,28,392,0,Medium,false,
+Processed,463,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,32,392,0,Medium,false,
+Processed,464,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,28,392,0,Medium,false,
+Processed,465,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,34,393,0,Medium,false,
+Processed,466,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,33,392,0,Medium,false,
+Processed,467,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,151,392,0,Medium,false,
+Processed,468,Mon Sep 01 11:39:56 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xro2&sid=TfGN7yGAKXlm1wISAAAS,200,OK,639,229,1,Medium,false,
+Processed,469,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,7,389,21730,Medium,false,JSON
+Processed,470,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,38,384,20,Medium,false,JSON
+Processed,471,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,64,389,21730,Medium,false,JSON
+Processed,472,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,75,304,0,Medium,false,
+Processed,473,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,73,306,0,Medium,false,
+Processed,474,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,83,393,0,Medium,false,
+Processed,475,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,240,306,0,Medium,false,
+Processed,476,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,289,305,0,Medium,false,
+Processed,477,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,280,386,696,Medium,false,JSON
+Processed,478,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,91,306,0,Medium,false,
+Processed,479,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xrzM&sid=TfGN7yGAKXlm1wISAAAS,200,OK,226,229,1,Medium,false,
+Processed,480,Mon Sep 01 11:39:57 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,178,306,0,Medium,false,
+Processed,481,Mon Sep 01 11:39:58 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xs3q&sid=JOXIisJYZ7O-yMxhAAAU,200,OK,12,213,2,Medium,false,
+Processed,482,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=JOXIisJYZ7O-yMxhAAAU,101,Switching Protocols,7,129,0,Medium,false,
+Processed,483,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,15,392,0,Medium,false,
+Processed,484,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xs3u&sid=JOXIisJYZ7O-yMxhAAAU,200,OK,113,230,32,Medium,false,
+Processed,485,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,10,392,0,Medium,false,
+Processed,486,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,21,392,0,Medium,false,
+Processed,487,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,25,392,0,Medium,false,
+Processed,488,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,32,392,0,Medium,false,
+Processed,489,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,490,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,10,392,0,Medium,false,
+Processed,491,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,13,393,0,Medium,false,
+Processed,492,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,22,392,0,Medium,false,
+Processed,493,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,20,392,0,Medium,false,
+Processed,494,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,17,392,0,Medium,false,
+Processed,495,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,8,392,0,Medium,false,
+Processed,496,Mon Sep 01 11:39:58 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xsFR&sid=JOXIisJYZ7O-yMxhAAAU,200,OK,143,229,1,Medium,false,
+Processed,497,Mon Sep 01 11:40:00 EDT 2025,GET,http://localhost:3000/,304,Not Modified,19,393,0,Medium,false,
+Processed,498,Mon Sep 01 11:40:00 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,10,392,0,Medium,false,
+Processed,499,Mon Sep 01 11:40:00 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,19,394,0,Medium,false,
+Processed,500,Mon Sep 01 11:40:00 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,9,393,0,Medium,false,
+Processed,501,Mon Sep 01 11:40:01 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,5,391,0,Medium,false,
+Out of Scope,502,Mon Sep 01 11:40:01 EDT 2025,GET,https://www.youtube.com/watch?v=9PnbKL3wuH4,403,Forbidden,0,130,40,,false,
+Processed,503,Mon Sep 01 11:40:01 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,5,393,0,Medium,false,
+Out of Scope,504,Mon Sep 01 11:40:01 EDT 2025,GET,https://www.youtube.com/favicon.ico,403,Forbidden,0,130,40,,false,
+Processed,505,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,35,392,0,Medium,false,
+Processed,506,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xt2M,200,OK,71,230,96,Low,false,
+Processed,507,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/,304,Not Modified,4,393,0,Medium,false,
+Processed,508,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,7,306,0,Medium,false,
+Processed,509,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,128,389,21730,Medium,false,JSON
+Processed,510,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,130,306,0,Medium,false,
+Processed,511,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,115,306,0,Medium,false,
+Processed,512,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,132,384,20,Medium,false,JSON
+Processed,513,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,128,304,0,Medium,false,
+Processed,514,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,21,393,0,Medium,false,
+Processed,515,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,16,394,0,Medium,false,
+Processed,516,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,29,391,0,Medium,false,
+Processed,517,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,19,393,0,Medium,false,
+Processed,518,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,5,392,0,Medium,false,
+Out of Scope,519,Mon Sep 01 11:40:02 EDT 2025,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/changeset?_expected=0,403,Forbidden,0,130,40,,false,
+Processed,520,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,8,393,0,Medium,false,
+Processed,521,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,798,305,0,Medium,false,
+Processed,522,Mon Sep 01 11:40:02 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,791,386,696,Medium,false,JSON
+Processed,523,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,333,306,0,Medium,false,
+Processed,524,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,457,306,0,Medium,false,
+Processed,525,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=Vqzsf2mtIaNlPM2SAAAW,101,Switching Protocols,7,129,0,Medium,false,
+Processed,526,Mon Sep 01 11:40:03 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtOi&sid=Vqzsf2mtIaNlPM2SAAAW,200,OK,81,213,2,Medium,false,
+Processed,527,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/,304,Not Modified,16,393,0,Medium,false,
+Processed,528,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtOl&sid=Vqzsf2mtIaNlPM2SAAAW,200,OK,32,230,32,Medium,false,
+Processed,529,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,530,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,531,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,3,392,0,Medium,false,
+Processed,532,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,533,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,34,391,0,Medium,false,
+Processed,534,Mon Sep 01 11:40:03 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,11,392,0,Medium,false,
+Processed,535,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,16,394,0,Medium,false,
+Processed,536,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,13,393,0,Medium,false,
+Processed,537,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,7,392,0,Medium,false,
+Processed,538,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,22,392,0,Medium,false,
+Processed,539,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,540,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,8,392,0,Medium,false,
+Processed,541,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,15,392,0,Medium,false,
+Processed,542,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,16,392,0,Medium,false,
+Processed,543,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,25,392,0,Medium,false,
+Processed,544,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,23,393,0,Medium,false,
+Processed,545,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,4,393,0,Medium,false,
+Processed,546,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtYc&sid=Vqzsf2mtIaNlPM2SAAAW,200,OK,147,229,1,Medium,false,
+Processed,547,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,8,392,0,Medium,false,
+Processed,548,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtcI,200,OK,9,230,96,Low,false,
+Processed,549,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,11,304,0,Medium,false,
+Processed,550,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,8,306,0,Medium,false,
+Processed,551,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,37,389,21730,Medium,false,JSON
+Processed,552,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,83,389,21730,Medium,false,JSON
+Processed,553,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,200,384,20,Medium,false,JSON
+Processed,554,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,12,393,0,Medium,false,
+Processed,555,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,230,389,21730,Medium,false,JSON
+Processed,556,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,389,306,0,Medium,false,
+Processed,557,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtse&sid=QHl3oZvayQ8BeZdLAAAY,200,OK,45,230,32,Medium,false,
+Processed,558,Mon Sep 01 11:40:05 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xtsF&sid=QHl3oZvayQ8BeZdLAAAY,200,OK,20,213,2,Medium,false,
+Processed,559,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=QHl3oZvayQ8BeZdLAAAY,101,Switching Protocols,10,129,0,Medium,false,
+Processed,560,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,6,306,0,Medium,false,
+Processed,561,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/,304,Not Modified,13,393,0,Medium,false,
+Processed,562,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,804,306,0,Medium,false,
+Processed,563,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,10,392,0,Medium,false,
+Processed,564,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xu16,200,OK,2,230,96,Low,false,
+Processed,565,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,1312,305,0,Medium,false,
+Processed,566,Mon Sep 01 11:40:04 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1356,386,696,Medium,false,JSON
+Processed,567,Mon Sep 01 11:40:05 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,1117,306,0,Medium,false,
+Processed,568,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,5,391,0,Medium,false,
+Processed,569,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,15,393,0,Medium,false,
+Processed,570,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xu49&sid=QHl3oZvayQ8BeZdLAAAY,200,OK,273,229,1,Medium,false,
+Processed,571,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,22,392,0,Medium,false,
+Processed,572,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,6,394,0,Medium,false,
+Processed,573,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,9,304,0,Medium,false,
+Processed,574,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,5,393,0,Medium,false,
+Processed,575,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,15,306,0,Medium,false,
+Processed,576,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,47,384,20,Medium,false,JSON
+Processed,577,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,58,389,21730,Medium,false,JSON
+Processed,578,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,42,389,21730,Medium,false,JSON
+Processed,579,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,97,389,21730,Medium,false,JSON
+Processed,580,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,36,393,0,Medium,false,
+Processed,581,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,37,392,0,Medium,false,
+Processed,582,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,252,306,0,Medium,false,
+Processed,583,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,85,392,0,Medium,false,
+Processed,584,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,155,392,0,Medium,false,
+Processed,585,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,50,392,0,Medium,false,
+Processed,586,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,39,392,0,Medium,false,
+Processed,587,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,588,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,16,392,0,Medium,false,
+Processed,589,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,16,392,0,Medium,false,
+Processed,590,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,19,393,0,Medium,false,
+Processed,591,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,30,392,0,Medium,false,
+Processed,592,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,21,392,0,Medium,false,
+Processed,593,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,11,392,0,Medium,false,
+Processed,594,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=VMsJnt9-57q9pj58AAAa,101,Switching Protocols,19,129,0,Medium,false,
+Processed,595,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xuQ3&sid=VMsJnt9-57q9pj58AAAa,200,OK,124,230,32,Medium,false,
+Processed,596,Mon Sep 01 11:40:07 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xuP_&sid=VMsJnt9-57q9pj58AAAa,200,OK,130,213,2,Medium,false,
+Processed,597,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xuQO&sid=QHl3oZvayQ8BeZdLAAAY,200,OK,168,229,1,Medium,false,
+Processed,598,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,599,306,0,Medium,false,
+Processed,599,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,1244,386,696,Medium,false,JSON
+Processed,600,Mon Sep 01 11:40:06 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,1251,305,0,Medium,false,
+Processed,601,Mon Sep 01 11:40:07 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,653,306,0,Medium,false,
+Processed,602,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,38,306,0,Medium,false,
+Processed,603,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,5,392,0,Medium,false,
+Processed,604,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,605,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,21,392,0,Medium,false,
+Processed,606,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,7,392,0,Medium,false,
+Processed,607,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,18,392,0,Medium,false,
+Processed,608,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,25,392,0,Medium,false,
+Processed,609,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xucK,200,OK,25,230,96,Low,false,
+Processed,610,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,6,392,0,Medium,false,
+Processed,611,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,3,392,0,Medium,false,
+Processed,612,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,5,393,0,Medium,false,
+Processed,613,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,47,392,0,Medium,false,
+Processed,614,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,615,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,8,392,0,Medium,false,
+Processed,616,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,44,392,0,Medium,false,
+Processed,617,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,11,306,0,Medium,false,
+Processed,618,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,18,304,0,Medium,false,
+Processed,619,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xubJ&sid=VMsJnt9-57q9pj58AAAa,200,OK,527,229,1,Medium,false,
+Processed,620,Mon Sep 01 11:40:08 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,133,305,0,Medium,false,
+Processed,621,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,106,306,0,Medium,false,
+Processed,622,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,21,306,0,Medium,false,
+Processed,623,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,94,304,0,Medium,false,
+Processed,624,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,24,389,21730,Medium,false,JSON
+Processed,625,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,73,393,0,Medium,false,
+Processed,626,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,129,386,696,Medium,false,JSON
+Processed,627,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xume&sid=VMsJnt9-57q9pj58AAAa,200,OK,134,229,1,Medium,false,
+Processed,628,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,66,306,0,Medium,false,
+Processed,629,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,82,306,0,Medium,false,
+Processed,630,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xuuC&sid=vrq-cJCtBA-1sbKRAAAc,200,OK,13,230,32,Medium,false,
+Processed,631,Mon Sep 01 11:40:09 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xuu6&sid=vrq-cJCtBA-1sbKRAAAc,200,OK,27,213,2,Medium,false,
+Processed,632,Mon Sep 01 11:40:09 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=vrq-cJCtBA-1sbKRAAAc,101,Switching Protocols,37,129,0,Medium,false,
+Processed,633,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_juice.jpg,304,Not Modified,19,392,0,Medium,false,
+Processed,634,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/apple_pressings.jpg,304,Not Modified,4,392,0,Medium,false,
+Processed,635,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/eggfruit_juice.jpg,304,Not Modified,9,392,0,Medium,false,
+Processed,636,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/lemon_juice.jpg,304,Not Modified,5,392,0,Medium,false,
+Processed,637,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/melon_bike.jpeg,304,Not Modified,24,392,0,Medium,false,
+Processed,638,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/green_smoothie.jpg,304,Not Modified,21,392,0,Medium,false,
+Processed,639,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/artwork2.jpg,304,Not Modified,49,392,0,Medium,false,
+Processed,640,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/carrot_juice.jpeg,304,Not Modified,117,392,0,Medium,false,
+Processed,641,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/permafrost.jpg,304,Not Modified,76,393,0,Medium,false,
+Processed,642,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/banana_juice.jpg,304,Not Modified,149,392,0,Medium,false,
+Processed,643,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fruit_press.jpg,304,Not Modified,17,392,0,Medium,false,
+Processed,644,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/assets/public/images/products/fan_facemask.jpg,304,Not Modified,25,392,0,Medium,false,
+Processed,645,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xv1l&sid=vrq-cJCtBA-1sbKRAAAc,200,OK,171,229,1,Medium,false,
+Processed,646,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/,304,Not Modified,7,393,0,Medium,false,
+Processed,647,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,12,394,0,Medium,false,
+Processed,648,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,23,393,0,Medium,false,
+Processed,649,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,20,392,0,Medium,false,
+Processed,650,Mon Sep 01 11:40:10 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,62,391,0,Medium,false,
+Processed,651,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/,304,Not Modified,6,393,0,Medium,false,
+Processed,652,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,6,393,0,Medium,false,
+Processed,653,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/vendor.js,304,Not Modified,12,394,0,Medium,false,
+Processed,654,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/runtime.js,304,Not Modified,9,391,0,Medium,false,
+Processed,655,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/main.js,304,Not Modified,4,393,0,Medium,false,
+Processed,656,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/polyfills.js,304,Not Modified,11,392,0,Medium,false,
+Processed,657,Mon Sep 01 11:40:11 EDT 2025,GET,http://localhost:3000/styles.css,304,Not Modified,4,393,0,Medium,false,
+Processed,658,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,5,392,0,Medium,false,
+Processed,659,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/assets/i18n/en.json,304,Not Modified,8,392,0,Medium,false,
+Processed,660,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xvZ3,200,OK,8,230,96,Low,false,
+Processed,661,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xvaU,200,OK,9,230,96,Low,false,
+Processed,662,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,17,304,0,Medium,false,
+Processed,663,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,33,306,0,Medium,false,
+Processed,664,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,50,306,0,Medium,false,
+Processed,665,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,46,389,21730,Medium,false,JSON
+Processed,666,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,114,306,0,Medium,false,
+Processed,667,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,63,304,0,Medium,false,
+Processed,668,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,200,OK,79,384,20,Medium,false,JSON
+Processed,669,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,123,389,21730,Medium,false,JSON
+Processed,670,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,10,393,0,Medium,false,
+Processed,671,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,10,306,0,Medium,false,
+Processed,672,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,43,389,21730,Medium,false,JSON
+Processed,673,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,200,OK,63,389,21730,Medium,false,JSON
+Processed,674,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/rest/admin/application-version,304,Not Modified,70,304,0,Medium,false,
+Processed,675,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/assets/public/images/JuiceShop_Logo.png,304,Not Modified,71,393,0,Medium,false,
+Processed,676,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/rest/languages,304,Not Modified,245,306,0,Medium,false,
+Processed,677,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=puyVJKbGt0v8iq4qAAAf,101,Switching Protocols,11,129,0,Medium,false,
+Processed,678,Mon Sep 01 11:40:14 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xvuv&sid=puyVJKbGt0v8iq4qAAAf,200,OK,34,213,2,Medium,false,
+Processed,679,Mon Sep 01 11:40:14 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xvvQ&sid=puyVJKbGt0v8iq4qAAAf,200,OK,39,230,32,Medium,false,
+Processed,680,Mon Sep 01 11:40:14 EDT 2025,POST,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xv-7&sid=t0zed-95o3TjBTtFAAAe,200,OK,14,213,2,Medium,false,
+Processed,681,Mon Sep 01 11:40:14 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=polling&t=Pa5xv-e&sid=t0zed-95o3TjBTtFAAAe,200,OK,39,230,32,Medium,false,
+Processed,682,Mon Sep 01 11:40:14 EDT 2025,GET,http://localhost:3000/socket.io/?EIO=4&transport=websocket&sid=t0zed-95o3TjBTtFAAAe,101,Switching Protocols,3,129,0,Medium,false,
+Processed,683,Mon Sep 01 11:40:14 EDT 2025,GET,http://localhost:3000/rest/admin/application-configuration,304,Not Modified,16,306,0,Medium,false,
+Processed,684,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,1625,306,0,Medium,false,
+Processed,685,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,2265,305,0,Medium,false,
+Processed,686,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/rest/products/search?q=,304,Not Modified,1706,306,0,Medium,false,
+Processed,687,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,2642,386,696,Medium,false,JSON
+Processed,688,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,304,Not Modified,2660,305,0,Medium,false,
+Processed,689,Mon Sep 01 11:40:12 EDT 2025,GET,http://localhost:3000/api/Challenges/?name=Score%20Board,200,OK,2555,386,696,Medium,false,JSON
+Processed,690,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,2358,306,0,Medium,false,
+Processed,691,Mon Sep 01 11:40:13 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,2339,306,0,Medium,false,
+Processed,692,Mon Sep 01 11:40:15 EDT 2025,GET,http://localhost:3000/api/Quantitys/,304,Not Modified,225,306,0,Medium,false,
